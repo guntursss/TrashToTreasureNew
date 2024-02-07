@@ -17,6 +17,9 @@
         android:theme="@style/Theme.TrashToTreasure"
         tools:targetApi="31">
         <activity
+            android:name=".menu.input.InputDataActivity"
+            android:exported="false" />
+        <activity
             android:name=".SplashActivity"
             android:exported="false" />
         <activity
