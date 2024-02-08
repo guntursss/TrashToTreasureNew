@@ -1,4 +1,9 @@
 package com.kotlinkrew.trashtotreasure.database.Dao
 
-class DatabaseDao {
+import androidx.room.Dao
+
+@Dao
+interface DatabaseDao {
+
+
 }
