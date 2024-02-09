@@ -3,4 +3,21 @@
     <string name="judul">Tukarkan sampahmu untuk uang sekarang!</string>
     <string name="deskripsi">Aplikasi TrashToTreasure adalah solusi untuk sampah anda, tukarkan ke uang sekarang.</string>
     <string name="riwayat">Riwayat &amp; Saldo</string>
+
+    <style name="ToolbarAppearance">
+        <item name="android:fontFamily">@font/poppins_semibold</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <string name="PengertianSampah">Sampah adalah sisa buangan dari suatu produk atau barang yang sudah tidak digunakan lagi, tetapi masih dapat di daur ulang menjadi barang yang bernilai /n.</string>
+    <string name="PengertianOrganik">Pengertian sampah organik adalah sampah yang berasal dari sisa-sisa makhluk hidup, baik hewan, tanaman, maupun manusia.</string>
+    <string name="PengertianOrganik1">Pada dasarnya, jenis sampah ini bisa terurai secara alamiah di alam juga bisa dimanfaatkan menjadi hal-hal lain, seperti kompos dan lainnya</string>
+    <string name="PengertianOrganikKering">Jenis sampah organik kering memiliki kandungan air yang sedikit hingga tidak ada, contohnya adalah ranting pohon, dedaunan kering, tulang belulang, dsb.</string>
+    <string name="PengertianOrganikBasah">Jenis sampah organik basah memiliki kandungan air yang cukup tinggi, membuatnya lebih cepat membusuk dan dapat terurai lebih cepat dibandingkan sampah kering. Contoh sampah organik basah adalah sisa sayuran, buah-buahan, dsb.</string>
+    <string name="PengertianAnorganik"> Sampah anorganik adalah jenis sampah yang terdiri dari bahan-bahan yang tidak berasal dari organisme hidup. Sampah ini umumnya terdiri dari material seperti logam, plastik, kaca, batu, dan keramik.</string>
+    <string name="PengertianAnorganikLunak">Sampah Lunak Anorgnanik adalah Sampah yang bersifat lunak atau lentur dan mudah dibentuk</string>
+    <string name="PengertianAnorganikKeras">Sampah Keras Anorgnanik adalah Sampah yang bersifat tidak mudah hancur. Biasanya, sampah keras anorganik akan dihancurkan dengan metode tertentu, pemanasan atau pembakaran</string>
+    <string name="PengertianB3">Pengertian limbah B3 dapat diartikan sebagai suatu buangan atau limbah yang sifat dan konsentrasinya mengandung zat yang beracun dan berbahaya sehingga secara langsung maupun tidak langsung dapat merusak lingkungan, mengganggu kesehatan, dan mengancam kelangsungan hidup manusia serta organisme lainya.</string>
+    <string name="PengertianB3_1">Limbah ini tidak berasal dari proses utama, melainkan dari kegiatan pemeliharaan alat, inhibitor korosi, pelarutan kerak, pencucian, pengemasan dan lain-lain.</string>
+    <string name="PengertianB3_2">Limbah ini berasal dari proses suatu industri (kegiatan utama).</string>
 </resources>
