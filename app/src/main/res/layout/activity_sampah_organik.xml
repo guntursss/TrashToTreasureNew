@@ -101,7 +101,7 @@
         android:id="@+id/Organik_Basah"
         android:layout_width="380dp"
         android:layout_height="wrap_content"
-        android:text="B. Sampah Orgnaik Basah"
+        android:text="B. Sampah Organik Basah"
         android:textSize="15sp"
         android:textColor="@color/black"
         android:fontFamily="@font/poppins_regular"

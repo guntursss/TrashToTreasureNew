@@ -42,7 +42,7 @@ class SplashActivity : AppCompatActivity() {
     }
 
     private fun startNewActivity() {
-        startActivity(Intent(this, MainActivity::class.java))
+        startActivity(Intent(this, jenis_sampah::class.java))
         finish()
     }
 }

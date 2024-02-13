@@ -9,7 +9,7 @@
         <item name="android:textSize">18sp</item>
     </style>
 
-    <string name="PengertianSampah">Sampah adalah sisa buangan dari suatu produk atau barang yang sudah tidak digunakan lagi, tetapi masih dapat di daur ulang menjadi barang yang bernilai /n.</string>
+    <string name="PengertianSampah">Sampah adalah sisa buangan dari suatu produk atau barang yang sudah tidak digunakan lagi, tetapi masih dapat di daur ulang menjadi barang yang bernilai.</string>
     <string name="PengertianOrganik">Pengertian sampah organik adalah sampah yang berasal dari sisa-sisa makhluk hidup, baik hewan, tanaman, maupun manusia.</string>
     <string name="PengertianOrganik1">Pada dasarnya, jenis sampah ini bisa terurai secara alamiah di alam juga bisa dimanfaatkan menjadi hal-hal lain, seperti kompos dan lainnya</string>
     <string name="PengertianOrganikKering">Jenis sampah organik kering memiliki kandungan air yang sedikit hingga tidak ada, contohnya adalah ranting pohon, dedaunan kering, tulang belulang, dsb.</string>
