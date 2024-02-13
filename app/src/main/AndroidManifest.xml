@@ -17,16 +17,7 @@
         android:theme="@style/Theme.TrashToTreasure"
         tools:targetApi="31">
         <activity
-            android:name=".sampah_b3"
-            android:exported="false" />
-        <activity
-            android:name=".sampah_anorganik"
-            android:exported="false" />
-        <activity
-            android:name=".sampah_organik"
-            android:exported="false" />
-        <activity
-            android:name=".jenis_sampah"
+            android:name=".menu.login.LoginActivity"
             android:exported="false" />
         <activity
             android:name=".menu.input.InputDataActivity"
